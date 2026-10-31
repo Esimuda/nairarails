@@ -1,6 +1,12 @@
 # Deploy NairaRails
 
-No hosting account was logged in on the build machine, so use one of the free options below. Prefer **Vercel** (Next.js 15).
+## Live demo
+
+**Production:** https://nairarails-ten.vercel.app
+
+Hosted as a Vercel Hobby project under Olabowale Babalola's projects (esimuda). Runs in **DEMO mode** (`NEAR_INTENTS_JWT` empty → deterministic mock quotes, DEMO badge).
+
+To deploy your own copy, use one of the free options below. Prefer **Vercel** (Next.js 15).
 
 ## Option A — Vercel one-click (recommended)
 

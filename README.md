@@ -27,6 +27,9 @@ If no Intents JWT is set, quotes come from a deterministic mock solver and the U
 ## Wallet
 Connect via **MyNearWallet** or **HERE Wallet** (`@near-wallet-selector`). Connected → Sign uses a real NEP-413 message. Not connected → **DEMO** badge and simulated settle only. Quotes still use live 1Click when `NEAR_INTENTS_JWT` is set.
 
+## Live demo
+**https://nairarails-ten.vercel.app** — Vercel Hobby (esimuda), DEMO mode (`NEAR_INTENTS_JWT` empty).
+
 ## Screen-recording demo
 Full click path + Israel voiceover: [`docs/DEMO_WALKTHROUGH.md`](docs/DEMO_WALKTHROUGH.md). Deploy: [`DEPLOY.md`](DEPLOY.md).
 
